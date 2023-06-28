@@ -1,10 +1,17 @@
-# Site de uma loja de livros feito durante um curso de first mobile
+# <h1 align="center">Site de uma loja de livros feito durante um curso de first mobile</h1>
 
-Tela para mobile
-![Tela para mobile](https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/mobile.png)
+<p align="center">Tela para mobile</p>
+<div align="center">
+  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/mobile.png" width="300">
+</div>
 
-Tela para tablet
-![Tela para tablet](https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/tablet.png)
+<p align="center">Tela para tablet</p>
+<div align="center">
+  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/tablet.png" width="600">
+</div>
 
-Tela para desktop
-![Tela para desktop](https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/desktop.png)
+<p align="center">Tela para desktop</p>
+<div align="center">
+  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/desktop.png" width="1000">
+</div>
+
