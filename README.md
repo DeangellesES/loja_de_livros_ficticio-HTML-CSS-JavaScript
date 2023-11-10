@@ -1,5 +1,7 @@
 # <h1 align="center">Site de uma loja de livros feito durante um curso de first mobile</h1>
 
+<br>
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -9,6 +11,7 @@
 <!-- ## Tecnologias utilizadas no projeto
 * HTML
 * CSS -->
+<br>
 
 <h3 align="center">responsiva para todas as telas</h3>
 <br>
