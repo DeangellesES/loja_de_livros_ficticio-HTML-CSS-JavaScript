@@ -1,7 +1,7 @@
 <h1>Projeto: Site para uma Loja de livros </h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Este é um projeto Front-End de uma loja de livros. Este projeto foi desenvolvido durante um curso first mobille.</p>
+<p>Este é um projeto Front-End de uma loja de livros. Este projeto foi desenvolvido durante um curso de first mobille.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/loja_de_livros_ficticio-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
