@@ -1,35 +1,35 @@
-# <h1 align="center">Site de uma loja de livros feito durante um curso de first mobile</h1>
+<h1>Projeto: Site para uma Loja de livros </h1>
 
-<br>
+<h2>📌 Sobre o Projeto</h2>
+<p>Este é um projeto Front-End de uma loja de livros. Este projeto foi desenvolvido durante um curso first mobille.</p>
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</div>
+<h3>💻<a href="https://deangelleses.github.io/loja_de_livros_ficticio-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
-<!-- ## Tecnologias utilizadas no projeto
-* HTML
-* CSS -->
-<br>
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+  <li><b>HTML</b></li>
+  <li><b>CSS</b> - responsivo para todas as telas</li>
+</ul>
 
-<h3 align="center">responsiva para todas as telas</h3>
-<br>
-<br>
-<h3 align="center">Tela para mobile</h3>
-<div align="center">
-  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/mobile.png" width="300">
-</div>
-<br>
-<br>
-<h3 align="center">Tela para desktop</h3>
-<div align="center">
-  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/tablet.png" width="600">
-</div>
-<br>
-<br>
-<h3 align="center">Telas maiores para desktop</h3>
-<div align="center">
-  <img src="https://github.com/DeangellesES/loja_de_livros_ficticio-HTML-CSS-JavaScript/blob/main/desktop.png" width="1000">
-</div>
+<h2>✨ Funcionalidades</h2>
+<ul>
+  <li>Vender livros</li>
+  <li>Organizar livros para a venda</li>
+  <li>Cadastro de email</li>
+</ul>
 
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>Paradigma de programação Estruturado</li>
+  <li>Manipulação do DOM com JavaScript e com React</li>
+  <li>Icones do React icons, icones bem posicionados</li>
+  <li>React router dom para navegação entre páginas, syled components para estilização</li>
+  <li>Flex-box CSS</li>
+  <li>framework Vite para Buildar o projeto e melhoar a performance</li>
+  <li>Várias animações com CSS e JavaScript</li>
+  <li>projeto react limpo</li>
+  <li>eventos de scroll e hover</li>
+  <li>form, label e input</li>
+  <li>função para contar números até um certo número no DOM</li>
+  <li>animações para vir de baixo e de lado</li>
+</ul>
