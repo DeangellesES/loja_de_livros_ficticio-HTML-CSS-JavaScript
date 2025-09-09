@@ -25,6 +25,6 @@
   <li>:root para criação de variáveis</li>
   <li>fonte utilizada do google fontes</li>
   <li>HTML semântico e bem organizado</li>
-  <li>Efeito de clicar em link e aparecer uma lista e desaparecer ao clicar denovo no topo em categorias</li>
+  <li>Efeito de clicar em link e aparecer uma lista e desaparecer ao clicar denovo no topo em categorias com :checked</li>
   <li>Funcionalidade carrosel com Swiper</li>
 </ul>
