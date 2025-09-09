@@ -1,7 +1,7 @@
 <h1>Projeto: Site para uma Loja de livros </h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Este é um projeto Front-End de uma loja de livros. Este projeto foi desenvolvido durante um curso de first mobille.</p>
+<p>Este é um projeto Front-End muito simples de uma loja de livros. Este projeto foi desenvolvido durante um curso de first mobille.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/loja_de_livros_ficticio-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
@@ -25,11 +25,6 @@
   <li>:root para criação de variáveis</li>
   <li>fonte utilizada do google fontes</li>
   <li>HTML semântico e bem organizado</li>
-  <li>framework Vite para Buildar o projeto e melhoar a performance</li>
-  <li>Várias animações com CSS e JavaScript</li>
-  <li>projeto react limpo</li>
-  <li>eventos de scroll e hover</li>
-  <li>form, label e input</li>
-  <li>função para contar números até um certo número no DOM</li>
-  <li>animações para vir de baixo e de lado</li>
+  <li>Efeito de clicar em link e aparecer uma lista e desaparecer ao clicar denovo no topo em categorias</li>
+  <li>Funcionalidade carrosel com Swiper</li>
 </ul>
