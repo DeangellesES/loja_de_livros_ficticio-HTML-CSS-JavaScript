@@ -20,11 +20,11 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Paradigma de programação Estruturado</li>
-  <li>Manipulação do DOM com JavaScript e com React</li>
-  <li>Icones do React icons, icones bem posicionados</li>
-  <li>React router dom para navegação entre páginas, syled components para estilização</li>
-  <li>Flex-box CSS</li>
+  <li>CSS organizado em arquivos, utilizando import entre eles</li>
+  <li>reset css utilizado</li>
+  <li>:root para criação de variáveis</li>
+  <li>fonte utilizada do google fontes</li>
+  <li>HTML semântico e bem organizado</li>
   <li>framework Vite para Buildar o projeto e melhoar a performance</li>
   <li>Várias animações com CSS e JavaScript</li>
   <li>projeto react limpo</li>
